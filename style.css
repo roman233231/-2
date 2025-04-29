@@ -59,6 +59,9 @@ header {
   .perspective h1{
     font-size: 35px;
   }
+ .chld-grid{
+  grid-gap: 10px
+}
 }
 
 @keyframes fadeIn {
