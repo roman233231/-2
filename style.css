@@ -988,7 +988,6 @@ body {
 
  .foot {
     flex-direction: column;
-    text-align: center;
     padding: 10px;
     height: 100%;
   }
