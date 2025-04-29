@@ -986,11 +986,7 @@ body {
     font-size: 14px;
   }
 
-  .foot {
-    flex-direction: column;
-    text-align: center;
-    padding: 10px;
-  }
+
 
   .one-foot, .two-foot, .three-foot {
     margin: 6px 0;
