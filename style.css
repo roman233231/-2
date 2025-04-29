@@ -986,6 +986,12 @@ body {
     font-size: 14px;
   }
 
+ .foot {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    height: 100%;
+  }
 
 
   .one-foot, .two-foot, .three-foot {
